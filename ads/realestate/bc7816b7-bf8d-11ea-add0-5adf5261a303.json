@@ -1,0 +1,66 @@
+{
+	"attributes": [
+		{
+			"attributes": [],
+			"computedValue": "10000",
+			"displayName": "Asking Price",
+			"floatValue": 0,
+			"intValue": 10000,
+			"name": "price",
+			"type": 0,
+			"value": "100,00.00"
+		},
+		{
+			"attributes": [],
+			"computedValue": "1",
+			"displayName": "Beds",
+			"floatValue": 0,
+			"intValue": 1,
+			"name": "beds",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"attributes": [],
+			"computedValue": "1",
+			"displayName": "Baths",
+			"floatValue": 0,
+			"intValue": 1,
+			"name": "baths",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"attributes": [],
+			"computedValue": "1234",
+			"displayName": "Sqft",
+			"floatValue": 0,
+			"intValue": 1234,
+			"name": "sqft",
+			"type": 0,
+			"value": "1234"
+		}
+	],
+	"cityDisplay": "Detroit, Michigan (48201)",
+	"description": "ewqewwr",
+	"featureSets": [
+		{
+			"humanName": "My new vocab 3",
+			"id": "f85f312c-9bdc-11ea-8c16-4a848dc08ce4",
+			"machineName": "my_new_cvocab 3",
+			"terms": [],
+			"userId": "e36b42fe-b09c-4514-a519-e178bb52957e"
+		}
+	],
+	"id": "bc7816b7-bf8d-11ea-add0-5adf5261a303",
+	"images": [],
+	"location": [
+		-83.0604,
+		42.3474
+	],
+	"profileId": "a6060999-b399-4f2a-9f7d-1e75d1a87c28",
+	"status": 0,
+	"title": "dwerwer",
+	"typeId": "5665f5f8-5533-4aa1-96f4-b78e02714de0",
+	"userId": "c3579436-66eb-44aa-af8a-f158c9d77c31"
+}
